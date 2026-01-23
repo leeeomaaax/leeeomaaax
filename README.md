@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+Currently, I'm trying to help software developers working on product teams to become more value-focused via this book called "[Your Code is Not the Most Important Thing in the World](https://leomax.fyi/book/)". It's all about mental models for decision-making, communication and how to navigate organizations, addressing the day-to-day decisions and trade-offs we have to make.
+
+Long term, I'm interested in learning about social and impact driven businesses. Do you have any good recommendations on what I should read next? Let me know at leomaxfyi@gmail.com.
+
+I also share about my book recommendations [here](https://leomax.fyi/recommendations/). Check it out if you're looking for your next book.
+
 <!--
 **leeeomaaax/leeeomaaax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
