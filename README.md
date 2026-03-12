@@ -1,6 +1,15 @@
 ## Hi there 👋
 
-Currently, I'm trying to help software developers working on product teams to become more value-focused via this book called "[Your Code is Not the Most Important Thing in the World](https://leomax.fyi/book/)". It's all about mental models for decision-making, communication and how to navigate organizations, addressing the day-to-day decisions and trade-offs we have to make.
+I wrote “[High Output Software Engineering: Mental Models for Value Creation, Decision Making, Communication, and Success in Product Organizations](https://leomax.fyi/book/)”
+
+In it, I teach what actually creates real business value. It’s not the code itself. Code is just a tool. Not that code isn’t important, but it’s not the most important thing.
+
+I focus on three pillars of value creation:
+- Mental models for decision-making and prioritization - Feel confident making the really hard calls related to architecture trade-offs, when (and how much) to test, feature scoping, planning vs. execution
+- Mental models for being an excellent communicator - Become the person teammates trust, rely on, and actually enjoy working with
+- Mental models for navigating people & organization dynamics - How to get things done if you feel blocked by bureaucracy in bigger organizations
+
+---
 
 Long term, I'm interested in learning about social and impact driven businesses. Do you have any good recommendations on what I should read next? Let me know at leomaxfyi@gmail.com.
 
